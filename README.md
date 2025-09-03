@@ -32,3 +32,11 @@ This dashboard was created to provide a quick and comprehensive view of key sale
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic
 ## Dashboard
 <img width="1894" height="1009" alt="Screenshot  Dashboard" src="https://github.com/user-attachments/assets/9834d6ef-23b7-4f23-a76a-b3c522691d0d" />
+
+## Project Insights
+ - High Profitability: The company shows strong financial health with over 30M in sales and 6.5M in profit.
+ - Offline Sales Lead: The offline channel is the primary revenue driver, accounting for 69% of total sales.
+ - Top Regions: The Central region leads in sales, followed by the East and North.
+ - Key Categories: Beauty, Clothing, and Home Decor are the top-selling product categories.
+ - Operational Efficiency: The high percentage of delivered orders indicates a reliable fulfillment process.
+ - Growth Opportunity: The dashboard points to underperforming regions (South and West), which can be a focus for future growth.
