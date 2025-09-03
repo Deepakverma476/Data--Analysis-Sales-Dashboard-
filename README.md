@@ -42,4 +42,7 @@ This dashboard was created to provide a quick and comprehensive view of key sale
  - Growth Opportunity: The dashboard points to underperforming regions (South and West), which can be a focus for future growth.
 
  ##  Final Conclusion
-    The sales dashboard confirms that the offline channel and Central region are key to success, while highlighting a significant growth opportunity in the underperforming South and West regions. The insights  gained will help the business optimize its strategy for continued growth.
+    The sales dashboard confirms that the offline channel and Central region
+    are key to success, while highlighting a significant growth opportunity in
+    the underperforming South and West regions. The insights  gained will help 
+    the business optimize its strategy for continued growth
