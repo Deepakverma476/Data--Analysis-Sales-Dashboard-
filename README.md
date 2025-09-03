@@ -23,4 +23,10 @@ This dashboard was created to provide a quick and comprehensive view of key sale
    
 - Dashboard Interaction <a href="https://github.com/Deepakverma476/Data--Analysis-Sales-Dashboard-/blob/main/Screenshot%20%5BDashboard%5D.png">View Dashboard</a>
 
-
+# Process 
+- Verify data for any missing values and anomalies, and sort out the same
+- Made sure data is consistent and clean with respect to data type, data format and values used
+- Conduct an initial review to understand data structure   and key relationships
+- Created pivot tables according to the questions asked
+- Build an interactive dashboard using charts, tables, and slicers to present findings
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic
