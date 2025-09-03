@@ -5,6 +5,8 @@ This dashboard was created to provide a quick and comprehensive view of key sale
 
 ## Data set used
 - <a href="https://github.com/Deepakverma476/Data--Analysis-Sales-Dashboard-/blob/main/Main%20Data.xlsx">Dataset</a>
+## Technologies Used
+-  Microsoft Excel
 
 ## Questions (KPIs)
  - What are the total sales and total profit for the selected period? 
